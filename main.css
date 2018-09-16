@@ -5,30 +5,35 @@ body {
   color: #2e2b57; 
 }
 h1 {
+float: left;
   color: midnightblue; 
   font-size: 17pt; 
   font-family: Georgia, Times, serif; 
   font-weight: normal; 
 }
 h2 {
+  float: left;
   color: midnightblue; 
   font-size: 17pt; 
   font-family: Georgia, Times, serif; 
   font-weight: normal; 
 }
 h4 {
+  float: left;
   color: midnightblue; 
   font-size: 17pt; 
   font-family: Georgia, Times, serif; 
   font-weight: normal; 
 }
 h3 {
+  float: left;
   color: navy; 
   font-size: 15pt; 
   font-family: Georgia, Times, serif; 
   font-weight: normal; 
 }
 p {
+  float: left;
   color: #2e2b57; 
   font-size: 13pt; 
   font-family: Georgia, Times, serif; 
